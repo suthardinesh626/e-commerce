@@ -1,0 +1,79 @@
+/* Reset some default styles */
+* {
+ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for the navbar */
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #514848;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    height: 6vh;
+}
+
+/* Style for the navigation list */
+.nav-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+/* Style for navigation items */
+.nav-item {
+    position: relative;
+    margin-right: 20px;
+}
+
+/* Style for navigation links */
+.nav-item a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+/* Style for dropdown menus */
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    z-index: 1;
+}
+
+/* Show dropdown on hover */
+.nav-item:hover .dropdown {
+    display: block;
+}
+
+/* Style for dropdown items */
+.dropdown li {
+    padding: 10px;
+}
+
+/* Style for dropdown links */
+.dropdown a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change dropdown position */
+.dropdown ul {
+    left: 100%;
+    top: 0;
+}
+
+
+.navbar input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px;
+}

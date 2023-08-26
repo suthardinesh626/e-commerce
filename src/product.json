@@ -1,0 +1,101 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "name": "Men's Blue Denim Jacket",
+            "price": 59.99,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Classic blue denim jacket for men.",
+            "type": "clothing",
+            "label": "New Arrival",
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "name": "Women's Floral Maxi Dress",
+            "price": 42.95,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Elegant floral maxi dress for women.",
+            "type": "clothing",
+            "label": "Bestseller",
+            "rating": 4.8
+        },
+        {
+            "id": 3,
+            "name": "Men's Plaid Button-Up Shirt",
+            "price": 29.99,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Stylish plaid button-up shirt for men.",
+            "type": "clothing",
+            "label": "Sale",
+            "rating": 4.2
+        },
+        {
+            "id": 4,
+            "name": "Women's High-Waisted Jeans",
+            "price": 49.95,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Trendy high-waisted jeans for women.",
+            "type": "clothing",
+            "label": "Bestseller",
+            "rating": 4.6
+        },
+        {
+            "id": 5,
+            "name": "Men's Casual T-Shirt",
+            "price": 15.99,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Comfortable casual t-shirt for men.",
+            "type": "clothing",
+            "label": "Sale",
+            "rating": 4.0
+        },
+        {
+            "id": 6,
+            "name": "Women's Striped Sweater",
+            "price": 34.99,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lovetoknow.com%2Flife%2Fstyle%2Ffashion-gender-dress&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAX",
+            "description": "Cozy striped sweater for women.",
+            "type": "clothing",
+            "label": "New Arrival",
+            "rating": 4.7
+        },
+        {
+            "id": 7,
+            "name": "Men's Chino Shorts",
+            "price": 25.50,
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcross-sword.com%2Fblogs%2Fgender%2Fdifference-between-mens-and-womens-fashion&psig=AOvVaw3rxXbmxU3GPt-rx4wiFvGc&ust=1691928794346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi7n4eM14ADFQAAAAAdAAAAABAJ",
+            "description": "Classic chino shorts for men.",
+            "type": "clothing",
+            "label": "Sale",
+            "rating": 4.3
+        },
+        {
+            "id": 8,
+            "name": "Women's Summer Dress",
+            "price": 37.75,
+            "description": "Light and breezy summer dress for women.",
+            "type": "clothing",
+            "label": "New Arrival",
+            "rating": 4.9
+        },
+        {
+            "id": 9,
+            "name": "Men's Leather Sneakers",
+            "price": 74.95,
+            "description": "Sleek leather sneakers for men.",
+            "type": "shoes",
+            "label": "Bestseller",
+            "rating": 4.4
+        },
+        {
+            "id": 10,
+            "name": "Women's Ankle Boots",
+            "price": 56.99,
+            "description": "Stylish ankle boots for women.",
+            "type": "shoes",
+            "label": "New Arrival",
+            "rating": 4.7
+        }
+    ]
+}
