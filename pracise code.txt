@@ -1,0 +1,39 @@
+//login form jsx.
+const [form, setForm] = useState({
+    firstName: '',
+    lastName: '',
+  });
+
+  const handleChange = e => {
+    setForm(prev => ({
+      ...prev,
+      [e.target.name]: e.target.value
+    }));
+  };
+
+    <form>
+        <input name='firstName' type="text" onChange={handleChange} placeholder='First Name' />
+        <input name='lastName' type="text" onChange={handleChange} placeholder='Last Name' />
+    </form>
+//Login form jsx
+
+//exmaple of useState, where increase and zero the vlaue on click.
+ const PRICE_PER_ITEM = 5;
+
+  const [quantity, setQuantity] = useState(0);
+  const totalPrice = quantity * PRICE_PER_ITEM;
+
+  const handclick = () => {
+    setQuantity(quantity + 1)
+  }
+  const clearClick = () => {
+    setQuantity(0);
+  }
+
+<div className='home'>
+      <button onClick={clearClick} >Clear All add item</button>
+      <button onClick={handclick} >Add item</button>
+      <h3> {totalPrice} </h3>
+    </div>
+
+
